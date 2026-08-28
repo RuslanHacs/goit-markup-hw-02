@@ -2,6 +2,15 @@
     background: #2e2f42;
 }
 
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
 .btn-link {
     background: #4d5ae5;
     font-weight: 500;
