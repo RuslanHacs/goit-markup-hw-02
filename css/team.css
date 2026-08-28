@@ -1,6 +1,11 @@
-.card-bg {
+.team-bg {
 
     background: #f4f4fd;
+}
+
+.card {
+    background: #fff;
+
 }
 
 .card-txt {
